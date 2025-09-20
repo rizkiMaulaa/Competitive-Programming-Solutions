@@ -31,4 +31,4 @@ This repository contains my collection of **competitive programming solutions** 
 
 ---
 
-✍️ Created by [Rizki Maula](https://github.com/RizkiMaula65)  
+✍️ Created by [Rizki Maula](https://github.com/rizkiMaulaa)  
