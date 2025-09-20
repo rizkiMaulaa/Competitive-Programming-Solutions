@@ -12,7 +12,7 @@ This repository contains my collection of **competitive programming solutions** 
 
 ## 🛠️ Tech Stack
 - **Languages**: C/C++ 
-- **Tools / IDEs**: Visual Studio Code, g++, Python3  
+- **Tools / IDEs**: Visual Studio Code and g++ 
 
 ---
 
